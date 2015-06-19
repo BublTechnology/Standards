@@ -1,0 +1,17 @@
+require:
+    - rubocop/rspec/focused
+    - rubocop-rspec
+
+Metrics/LineLength:
+    Max: 120
+
+Rspec/Focused:
+    Enabled: true
+
+SignalException:
+    # Valid values are: semantic, only_raise and only_fail
+    EnforcedStyle: only_raise
+
+# Allow =begin and =end comments
+Style/BlockComments:
+    Enabled: false

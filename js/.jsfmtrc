@@ -11,7 +11,7 @@
                         "avoidEscape": false
                 },
                 "indent": {
-                        "value": "    "  // four spaces, b.
+                        "value": "  "  // 2 spaces
                 },
                 "whiteSpace": {
                         "before": {

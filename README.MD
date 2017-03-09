@@ -2,6 +2,10 @@
 
 This repo holds the code style configurations for multiple tools
 
+## JS
+Our standards are an evolution of multiple sources and should be [StanardJS](http://standardjs.com/index.html) compliant.
+They are currently entirely based on [ESLint](http://eslint.org/) and live in their own [repo](https://github.com/BublTechnology/eslint-config-bubl).
+
 ## Ruby
 
 ### Rubocop
